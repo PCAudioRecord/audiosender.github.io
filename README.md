@@ -1,2 +1,2 @@
-# pcaudiorecord.github.io
-pc audio record
+# audiosender.github.io
+pc audio sender
